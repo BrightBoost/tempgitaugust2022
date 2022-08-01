@@ -11,3 +11,7 @@ another paragraph
 ```
 
 ![lovely picture](images/file.jpeg)
+
+---
+
+![lovely puppy picture](images/puppy.jpeg)
